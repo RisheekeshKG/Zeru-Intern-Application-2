@@ -203,6 +203,8 @@ wallet_id,score
 
 ![alt text](data/assets/11.png)
 
+> For distribution graph please visit ``data_analysis.md``
+
 
 ##  Scalability
 
