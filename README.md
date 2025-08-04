@@ -1,4 +1,4 @@
-# Wallet Risk Scoring - Round 2 Assignment
+# Wallet Risk Scoring
 ## Important - Instructions 
 
 - before cloning make sure u have api of compound v2 ethereum from thegraph website (https://thegraph.com/explorer/subgraphs/4TbqVA8p2DoBd5qDbPMwmDZv3CsJjWtxo8nVSqF2tA9a?view=Query&chain=arbitrum-one)
